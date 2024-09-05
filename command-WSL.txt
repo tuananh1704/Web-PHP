@@ -1,0 +1,8 @@
+cd /var/www/html/project
+code .
+
+sudo service apache2 start
+sudo service mariadb start
+sudo mysql -u root -p
+
+
